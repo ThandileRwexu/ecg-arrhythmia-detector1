@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Data files (too large for GitHub)
+data/
+*.dat
+*.hea
+*.atr
+
+# Model binary files (too large — use .tflite only)
+*.h5
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
